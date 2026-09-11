@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1mpnoxox0-4cg.js"],""]
+4:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+3:T5d8,<h2 id="what-this-site-is">What this site is</h2>
+<p>Aesthetics Korea is an independent reference on aesthetic treatments in South Korea, written in English for people who travel to South Korea for skin treatments, lifting, injectables, and related procedures.</p>
+<p>Every page is built to answer one clearly stated question, with a short answer first, the facts that support it, and the sources those facts come from.</p>
+<h2 id="who-it-is-for">Who it is for</h2>
+<p>International patients, mainly from East Asia, Southeast Asia, and Australia, who want to understand a treatment before they book a consultation in South Korea. It is also written so that AI assistants and search engines can read and cite it accurately.</p>
+<h2 id="what-it-is-not">What it is not</h2>
+<p>Aesthetics Korea is not a clinic, a booking agent, or a medical provider. We do not diagnose, recommend a specific clinic, or arrange appointments. Nothing on this site replaces a consultation with a licensed physician.</p>
+<p>We do not accept payment for editorial coverage. If sponsored content is ever introduced it will be labelled on the page. See the <a href="/advertising-policy/">advertising policy</a>.</p>
+<h2 id="how-we-work">How we work</h2>
+<p>Read the <a href="/methodology/">methodology</a> for how pages are researched, what counts as a source, how prices are stated, and how medical review works. Corrections and questions: <a href="mailto:editors@aestheticskorea.com">editors@aestheticskorea.com</a>.</p>8:X
+1d:X
+1d:C
+0:{"buildId":"nH7NpsQWkiayZxIFiXllW","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aestheticskorea.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"About Aesthetics Korea\",\"item\":\"https://aestheticskorea.com/about/\"}]}"}}],["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl pt-8 sm:pt-12","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-[13px] text-ink-3","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[["$","$L2",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}],["$","span",null,{"aria-hidden":"true","children":"/"}]]}],["$","li","/about/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"About Aesthetics Korea"}],null]}]]}]}],["$","header",null,{"className":"mt-6 max-w-3xl","children":[["$","h1",null,{"className":"display text-[36px] sm:text-[48px]","children":"About Aesthetics Korea"}],["$","p",null,{"className":"mt-4 text-[18px] leading-relaxed text-ink-2","children":"Who we are, why this site exists, and what it is not."}],["$","p",null,{"className":"mt-3 text-[13px] text-ink-3","children":["Last updated ","2026-09-03"]}]]}],["$","div",null,{"className":"prose-ak mt-10","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About Aesthetics Korea — Aesthetics Korea"}],["$","meta","1",{"name":"description","content":"Who we are, why this site exists, and what it is not."}],["$","meta","2",{"name":"application-name","content":"Aesthetics Korea"}],["$","meta","3",{"name":"robots","content":"index, follow"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]}],"$L19"]}],"isPartial":"$@1a","staleTime":"$8","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$8","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[27201,["/_next/static/chunks/1mpnoxox0-4cg.js"],"IconMark"]
+21:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+22:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+6:null
+b:["$","link","4",{"rel":"canonical","href":"https://aestheticskorea.com/about/"}]
+c:["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://aestheticskorea.com/about/"}]
+d:["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://aestheticskorea.com/about/"}]
+e:["$","meta","7",{"property":"og:title","content":"About Aesthetics Korea"}]
+f:["$","meta","8",{"property":"og:description","content":"Who we are, why this site exists, and what it is not."}]
+10:["$","meta","9",{"property":"og:url","content":"https://aestheticskorea.com/about/"}]
+11:["$","meta","10",{"property":"og:site_name","content":"Aesthetics Korea"}]
+12:["$","meta","11",{"property":"og:locale","content":"en_US"}]
+13:["$","meta","12",{"property":"og:type","content":"website"}]
+14:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+15:["$","meta","14",{"name":"twitter:title","content":"About Aesthetics Korea"}]
+16:["$","meta","15",{"name":"twitter:description","content":"Who we are, why this site exists, and what it is not."}]
+17:["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+18:["$","$L20","17",{}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1b:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1f:true
+8:300
+8:C
+1e:0
+1a:"$undefined"
+1c:"$undefined"
+7:"$undefined"

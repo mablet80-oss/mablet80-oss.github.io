@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1mpnoxox0-4cg.js"],""]
+3:Te72,<h2 id="one-page-one-question">One page, one question</h2>
+<p>Each article is built around a single primary question, for example "What is Rejuran?" or "How much does Ultherapy cost in South Korea?". The page opens with a Short Answer of two to four sentences, followed by key facts, and only then the full explanation. Long introductions are not used.</p>
+<h2 id="sources-and-how-they-are-ranked">Sources and how they are ranked</h2>
+<p>Claims about safety, effectiveness, procedure, or price carry a source. Sources are listed at the end of every article and typed by class, in this order of preference:</p>
+<ol>
+<li>Government and public bodies (for example the Korean Ministry of Food and Drug Safety, the US FDA)</li>
+<li>Official medical institutions</li>
+<li>Peer-reviewed research</li>
+<li>Manufacturer documentation</li>
+<li>Professional medical bodies</li>
+<li>Reputable press</li>
+<li>Other</li>
+</ol>
+<p>A page is not published unless it cites at least three sources, at least one of them from the first four classes.</p>
+<h2 id="numbers-and-prices">Numbers and prices</h2>
+<p>Prices are given as ranges with the basis stated (for example, per session, per area, per vial) and the date they were checked. We do not quote a single clinic's price as the price of a treatment. Session counts, downtime, and effect duration are stated as reported in the cited sources, not as promises.</p>
+<h2 id="medical-review">Medical review</h2>
+<p>Pages that describe a medical procedure are reviewed by doctors before they are published. Review is carried out by:</p>
+<ul>
+<li><strong>Dr. Seungsun Yoo</strong> — Doctor of Korean Medicine (KMD), Republic of Korea. Founding director of Dongkyung Korean Medicine Clinic, in practice since 2010, working on purpura, vasculitis, and skin conditions with an immune component. Holds a Korean patent for a herbal formulation for purpura and has published on the subject in an international peer-reviewed journal.</li>
+<li><strong>Dr. Yeri Kim</strong> — Doctor of Korean Medicine (KMD), Republic of Korea. Director of the Yongsan branch of Dongkyung Korean Medicine Clinic, working in the same fields.</li>
+</ul>
+<p>Reviewers check accuracy against the sources cited on the page. They do not endorse any clinic, device, or product. Where an individual reviewer has read and signed a specific page, that page names them and gives the date; otherwise the page states that medical review is carried out by the doctors named here.</p>
+<p>Pages in Official Resources relay a rule published by a Korean ministry, agency, or statute. They are not medical content, they name no reviewer, and they cite the document instead.</p>
+<h2 id="entities-and-comparisons">Entities and comparisons</h2>
+<p>Treatments, skin concerns, and locations are maintained as named entities with their common aliases (including Korean names), and pages link to each other through those relationships. Comparison pages present both treatments on the same criteria without declaring a universal winner; suitability depends on the individual.</p>
+<h2 id="updates-and-corrections">Updates and corrections</h2>
+<p>Each page shows its publication and last updated dates. Pages are reviewed when the underlying sources change and at least annually. Corrections are made on the page and noted at the bottom. To report an error write to <a href="mailto:editors@aestheticskorea.com">editors@aestheticskorea.com</a>.</p>
+<h2 id="what-we-will-not-publish">What we will not publish</h2>
+<p>Content without sources for its medical claims, "best clinic" rankings, before/after galleries, unverified effect claims, and any content paid for by a clinic that is not clearly labelled as sponsored.</p>6:X
+b:X
+b:C
+0:{"buildId":"nH7NpsQWkiayZxIFiXllW","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aestheticskorea.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Methodology\",\"item\":\"https://aestheticskorea.com/methodology/\"}]}"}}],["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl pt-8 sm:pt-12","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-[13px] text-ink-3","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[["$","$L2",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}],["$","span",null,{"aria-hidden":"true","children":"/"}]]}],["$","li","/methodology/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Methodology"}],null]}]]}]}],["$","header",null,{"className":"mt-6 max-w-3xl","children":[["$","h1",null,{"className":"display text-[36px] sm:text-[48px]","children":"Methodology"}],["$","p",null,{"className":"mt-4 text-[18px] leading-relaxed text-ink-2","children":"How Aesthetics Korea researches, sources, reviews, and updates every page."}],["$","p",null,{"className":"mt-3 text-[13px] text-ink-3","children":["Last updated ","2026-09-03"]}]]}],["$","div",null,{"className":"prose-ak mt-10","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]],null,"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
+e:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+13:I[27201,["/_next/static/chunks/1mpnoxox0-4cg.js"],"IconMark"]
+14:I[39756,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+15:I[37457,["/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Methodology — Aesthetics Korea"}],["$","meta","1",{"name":"description","content":"How Aesthetics Korea researches, sources, reviews, and updates every page."}],["$","meta","2",{"name":"application-name","content":"Aesthetics Korea"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://aestheticskorea.com/methodology/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://aestheticskorea.com/methodology/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://aestheticskorea.com/methodology/"}],["$","meta","7",{"property":"og:title","content":"Methodology"}],["$","meta","8",{"property":"og:description","content":"How Aesthetics Korea researches, sources, reviews, and updates every page."}],["$","meta","9",{"property":"og:url","content":"https://aestheticskorea.com/methodology/"}],["$","meta","10",{"property":"og:site_name","content":"Aesthetics Korea"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Methodology"}],["$","meta","15",{"name":"twitter:description","content":"How Aesthetics Korea researches, sources, reviews, and updates every page."}],["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}]}]]}]
+d:true
+10:null
+6:300
+6:C
+c:0
+8:"$undefined"
+a:"$undefined"
+5:"$undefined"

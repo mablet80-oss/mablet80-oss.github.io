@@ -1,0 +1,66 @@
+# Aesthetics Korea
+
+> The independent guide to aesthetic treatments in South Korea. Independent, source-backed reference on skin treatments, lifting, injectables, and clinic visits in South Korea for international patients.
+
+Every page answers one question, opens with a short answer, and lists typed sources. A page describing a medical procedure names the professional who reviewed it; a page relaying an official Korean rule cites the ministry, agency or statute instead. Not medical advice; not a clinic.
+
+## Treatments
+
+- [Botox in South Korea: how it works and what the Korean brands are](https://aestheticskorea.com/treatments/botox/): Botulinum toxin relaxes the muscle making a line. How it works, how long it lasts, and the Korean rule that every batch is released by the government.
+- [Chemical peels: the cheap agent that beat the aggressive one](https://aestheticskorea.com/treatments/chemical-peel/): In pooled melasma trials in darker skin, glycolic acid outperformed trichloroacetic acid. And the maintenance topicals matter more than the peel itself.
+- [Dermal filler in South Korea: what it is and what it does](https://aestheticskorea.com/treatments/dermal-filler/): Filler adds volume where it is injected. What hyaluronic acid filler is, what it can and cannot do, how long it lasts, and the one risk worth understanding.
+- [Exosomes: promising evidence, and a regulatory question to ask first](https://aestheticskorea.com/treatments/exosome/): The published human studies are small and positive. The more urgent question in South Korea is whether the product being injected is licensed as a drug at all.
+- [Fat-dissolving injections: two licensed products, and everything else](https://aestheticskorea.com/treatments/fat-dissolving-injection/): South Korea's health technology agency reviewed 38 studies and could not confirm long-term effect. Only two submental fat injections are licensed here.
+- [Fractional laser: ablative or not, the trials came out level](https://aestheticskorea.com/treatments/fractional-laser/): Pooled trials found no difference between ablative and non-ablative fractional lasers — on results or on pigmentation risk. Downtime is what changes.
+- [InMode is a platform, not a treatment](https://aestheticskorea.com/treatments/inmode/): Forma, FaceTite and Morpheus8 are different procedures on one system, and one of them goes under the skin. What each does and why the distinction matters.
+- [Juvelook and PDLLA: a collagen stimulator, not a filler](https://aestheticskorea.com/treatments/juvelook/): PDLLA works by provoking your own collagen, so it is slow and not reversible the way hyaluronic acid is. A 2026 split-face trial found it non-inferior to PLLA.
+- [Laser toning: the cheaper option that outperformed the expensive one](https://aestheticskorea.com/treatments/laser-toning/): Laser toning outperformed pico lasers for melasma in pooled trials. But roughly 10% of East Asian patients develop mottled hypopigmentation that lasts years.
+- [Pico laser for pigmentation: what the pooled trials actually found](https://aestheticskorea.com/treatments/pico-laser/): Picosecond lasers are sold as the newer, better option for pigmentation. For melasma, a 2026 meta-analysis of 52 trials found they did not beat controls.
+- [Potenza and microneedle radiofrequency: what it treats well](https://aestheticskorea.com/treatments/potenza/): Needles carry radiofrequency past the epidermis. A 2026 review of 41 studies found credible efficacy for acne scars and safety across skin types.
+- [Radiesse: what is licensed, what is hyperdiluted, and what cannot be undone](https://aestheticskorea.com/treatments/radiesse/): Radiesse fills and stimulates collagen, and no enzyme dissolves it. The hyperdiluted version sold as a skin booster has no randomised trials behind it.
+- [Rejuran and polynucleotides: what the evidence actually shows](https://aestheticskorea.com/treatments/rejuran/): A Korean polynucleotide injectable marketed for skin quality. What it is, and what a 2024 systematic review found when it pooled the trials.
+- [Sculptra: long-lasting volume, and the nodule question](https://aestheticskorea.com/treatments/sculptra/): Poly-L-lactic acid builds volume over months and lasts years. Published nodule rates run from 1.2% to 41%, and dilution volume is what moves them.
+- [Skin boosters: what the category means and what trials show](https://aestheticskorea.com/treatments/skin-booster/): An umbrella term, not one treatment. What is actually injected, what controlled trials measured, and how to read a 97% efficacy figure.
+- [Thermage and monopolar radiofrequency: what depth buys you](https://aestheticskorea.com/treatments/thermage-flx/): Monopolar radiofrequency heats deep and diffusely to contract collagen. How it differs from the other RF devices Korean clinics sell, and what trials report.
+- [Thread lift in South Korea: what it is and how long it lasts](https://aestheticskorea.com/treatments/thread-lift/): Barbed threads pulled under the skin to lift sagging tissue. How it works, what the published follow-up shows about duration, and how often complications occur.
+- [Ultherapy and Korean HIFU: what focused ultrasound actually does](https://aestheticskorea.com/treatments/ultherapy/): Focused ultrasound heats tissue deep enough to reach the SMAS. What the pooled evidence shows, how Shurink relates to it, and what it will not do.
+
+## Concerns
+
+- [Acne scars: what South Korean clinics use, and what the evidence supports](https://aestheticskorea.com/concerns/acne-scars/): Atrophic scars need remodelling, not resurfacing alone. What South Korean clinics offer, what the pooled evidence shows, and why skin type decides.
+- [Enlarged pores: the thinnest evidence base on this site](https://aestheticskorea.com/concerns/enlarged-pores/): The whole evidence base for pores is 19 trials and 591 people. Pores cannot be closed — what treatment changes is how visible they are.
+- [Is laser safe for darker skin? The evidence, and what it means in South Korea](https://aestheticskorea.com/concerns/laser-on-darker-skin/): Higher Fitzpatrick types carry a real risk of hyperpigmentation and mottled pigment loss after laser. What the studies show, and what to settle first.
+- [Pigmentation: four different problems that share one word](https://aestheticskorea.com/concerns/pigmentation/): Four different problems get called pigmentation, and they need different treatment. The best-evidenced melasma option is a tablet plus a cream, not a laser.
+- [Sagging skin: tightening, repositioning, and telling them apart](https://aestheticskorea.com/concerns/sagging-skin/): Most non-surgical lifting does not lift. Which treatments tighten skin in place, which move tissue that has descended, and what the pooled evidence supports.
+- [Skin quality: four categories, and why most packages only treat one](https://aestheticskorea.com/concerns/skin-texture/): Skin quality has a consensus definition — tone evenness, surface evenness, firmness, glow. Most packages target one of the four and are sold as improving all.
+- [Wrinkles: which lines move, which lines stay, and what each one answers to](https://aestheticskorea.com/concerns/wrinkles/): Toxin works on movement lines, tretinoin on photodamage, and daily sunscreen stopped detectable aging over 4.5 years. Different lines need different tools.
+
+## Comparisons
+
+- [Rejuran vs Juvelook: two different bets on your own collagen](https://aestheticskorea.com/compare/rejuran-vs-juvelook/): Both are injected for skin quality — one salmon-derived polynucleotide, one a lactic acid polymer. Neither can be dissolved, and neither is well evidenced.
+- [Thermage vs Ultherapy: heat spread wide, or focused deep](https://aestheticskorea.com/compare/thermage-vs-ultherapy/): Two ways of heating tissue to tighten it. What separates them is depth and how the energy is delivered — and neither repositions tissue that has descended.
+- [Ultherapy vs Shurink: what the records show, and what no study shows](https://aestheticskorea.com/compare/ultherapy-vs-shurink/): Two ultrasound lifting devices, one documented difference, and no head-to-head trial. What the regulatory records say before you accept a substitution.
+
+## Visit Guide
+
+- [After you fly home: aftercare, follow-up, and going wrong at a distance](https://aestheticskorea.com/visit/after-you-fly-home/): The part nobody plans for. What to leave South Korea holding, who to contact from abroad, and the statutory route if a complication becomes a dispute.
+- [Booking a skin clinic in South Korea: what to settle first](https://aestheticskorea.com/visit/before-you-book/): What you actually need to be treated, who will interpret, what to get in writing before you pay a deposit, and what to do once you have flown home.
+- [How to look for a skin clinic in South Korea](https://aestheticskorea.com/visit/how-to-find-a-clinic/): Not which clinic — how to search. Where Koreans look, what a clinic's name says about its doctor, and the claims the profession calls unlawful.
+
+## Official Resources
+
+- [What Korean law says about brokers, referral fees and clinic ads](https://aestheticskorea.com/official/brokers-referrals-and-clinic-advertising/): South Korea's Medical Service Act bars introducing, referring or soliciting patients for profit. What that means for agencies offering to book your treatment.
+- [How to check whether a device or injectable is approved in South Korea](https://aestheticskorea.com/official/check-device-and-drug-approval/): South Korea's regulator publishes what it has approved. How to look up a laser, device or injectable before you agree to it, and what approval does not mean.
+- [What a Korean clinic must post about its prices — and cannot exceed](https://aestheticskorea.com/official/clinic-price-disclosure/): Korean law makes a clinic display its non-covered prices, bars it from charging more than the posted amount, and makes it report those prices to the government.
+- [Is your Korean clinic registered to treat foreign patients?](https://aestheticskorea.com/official/clinic-registration-foreign-patients/): Korean law requires clinics and agencies to register before treating foreign patients. How the register works, and how to check a clinic against it.
+- [KAHF accreditation: the tier above registration in South Korea](https://aestheticskorea.com/official/kahf-accreditation/): Registration lets a Korean clinic treat foreign patients. KAHF is the stricter tier above it, assessed on patient safety as well as service.
+- [If a Korean clinic goes wrong: the official dispute route](https://aestheticskorea.com/official/medical-dispute-mediation/): South Korea has a statutory agency that mediates medical disputes outside the courts. What it can do, what it costs, and how a patient reaches it.
+- [South Korea's medical visas: C-3-3 and G-1-10](https://aestheticskorea.com/official/medical-visa/): South Korea has two visa categories for foreign patients. Who they are for, how long they last, and why only a registered clinic or agency can invite you.
+- [South Korea's VAT refund on cosmetic procedures ended on 1 January 2026](https://aestheticskorea.com/official/vat-refund-cosmetic-procedures/): The 10% VAT refund for foreign patients having cosmetic procedures in South Korea applied to services supplied up to 31 December 2025. It was not extended.
+
+## About
+
+- [About Aesthetics Korea](https://aestheticskorea.com/about/): Who we are, why this site exists, and what it is not.
+- [Advertising Policy](https://aestheticskorea.com/advertising-policy/): How Aesthetics Korea separates editorial content from any sponsored placement.
+- [Editorial Policy](https://aestheticskorea.com/editorial-policy/): Independence, authorship, review, and correction rules for Aesthetics Korea content.
+- [Methodology](https://aestheticskorea.com/methodology/): How Aesthetics Korea researches, sources, reviews, and updates every page.
