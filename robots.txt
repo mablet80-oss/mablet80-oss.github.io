@@ -1,0 +1,30 @@
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckAssistBot
+User-agent: Applebot
+Allow: /
+
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://aestheticskorea.com/sitemap.xml
+
+Host: https://aestheticskorea.com
+
