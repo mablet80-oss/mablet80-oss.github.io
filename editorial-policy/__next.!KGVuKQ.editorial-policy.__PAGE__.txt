@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/22i43cg4l4-dq.js"],""]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+3:T718,<h2 id="independence">Independence</h2>
+<p>Editorial decisions are made by the editorial team alone. Clinics, manufacturers, and agencies do not review, approve, or pay for editorial content. Where a manufacturer document is used as a source it is labelled as such.</p>
+<h2 id="authorship">Authorship</h2>
+<p>Every page names its author. Where a page is produced with the help of research and drafting software, a human editor is responsible for the published version and for the sources cited.</p>
+<h2 id="medical-review">Medical review</h2>
+<p>Medical content is written from regulators, peer-reviewed research, and manufacturer documentation, with every number traceable to a source on the page. A page is described as reviewed only when a named clinician has read and signed that page, and then it gives their name, credential, and the date; every other medical page says "Not individually reviewed" in its byline. The <a href="/methodology/">methodology</a> names the doctors who have agreed to review and their field. Reviewers check accuracy against the cited sources; they do not endorse any clinic or product.</p>
+<p>Review is currently carried out by two doctors, Dr. Seungsun Yoo and Dr. Yeri Kim of Dongkyung Korean Medicine Clinic.</p>
+<p>Pages that relay an official Korean rule — the Official Resources section — are not medical content. They cite the ministry, agency, or statute instead of naming a reviewer, and say so on the page.</p>
+<h2 id="corrections">Corrections</h2>
+<p>Errors are corrected on the page itself, with a note describing the change and the date. Material corrections that change the meaning of a Short Answer are also recorded in the page's update history.</p>
+<h2 id="contact">Contact</h2>
+<p><a href="mailto:editors@aestheticskorea.com">editors@aestheticskorea.com</a></p>8:X
+10:X
+10:C
+0:{"buildId":"8MzqMA8DLIlhHEzUFwtYn","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://aestheticskorea.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Editorial Policy\",\"item\":\"https://aestheticskorea.com/editorial-policy/\"}]}"}}],["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl pt-8 sm:pt-12","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-[13px] text-ink-3","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[["$","$L2",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}],["$","span",null,{"aria-hidden":"true","children":"/"}]]}],["$","li","/editorial-policy/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Editorial Policy"}],null]}]]}]}],["$","header",null,{"className":"mt-6 max-w-3xl","children":[["$","h1",null,{"className":"display text-[36px] sm:text-[48px]","children":"Editorial Policy"}],["$","p",null,{"className":"mt-4 text-[18px] leading-relaxed text-ink-2","children":"Independence, authorship, review, and correction rules for Aesthetics Korea content."}],["$","p",null,{"className":"mt-3 text-[13px] text-ink-3","children":["Last updated ","2026-11-02"]}]]}],["$","div",null,{"className":"prose-ak mt-10","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],"$La"]}],"$Lb","$Lc"]}],"isPartial":"$@d","staleTime":"$8","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+14:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+15:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+16:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+a:["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]
+b:["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Editorial Policy — Aesthetics Korea"}],["$","meta","1",{"name":"description","content":"Independence, authorship, review, and correction rules for Aesthetics Korea content."}],["$","meta","2",{"name":"application-name","content":"Aesthetics Korea"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://aestheticskorea.com/editorial-policy/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://aestheticskorea.com/editorial-policy/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://aestheticskorea.com/editorial-policy/"}],["$","meta","7",{"property":"og:title","content":"Editorial Policy"}],["$","meta","8",{"property":"og:description","content":"Independence, authorship, review, and correction rules for Aesthetics Korea content."}],["$","meta","9",{"property":"og:url","content":"https://aestheticskorea.com/editorial-policy/"}],["$","meta","10",{"property":"og:site_name","content":"Aesthetics Korea"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:image","content":"https://aestheticskorea.com/og-default.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Aesthetics Korea, the independent guide to aesthetic treatments in South Korea, over a view of Seoul"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Editorial Policy"}],["$","meta","19",{"name":"twitter:description","content":"Independence, authorship, review, and correction rules for Aesthetics Korea content."}],["$","meta","20",{"name":"twitter:image","content":"https://aestheticskorea.com/og-default.jpg"}],["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","22",{}]]}]}]}]
+c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+e:["$","$1","c",{"children":[null,["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}]}]]}]
+12:true
+8:300
+8:C
+11:0
+d:"$undefined"
+f:"$undefined"
+7:"$undefined"
