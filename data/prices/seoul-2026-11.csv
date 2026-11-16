@@ -1,0 +1,296 @@
+captured_at,treatment,clinic,area,url,product,amount,unit,sessions,price_krw,price_type,vat,note
+2026-11-03,rejuran-healer,에비앙스의원,Sinsa,https://unni.app/events/159674,Rejuran Healer,2,cc,1,165000,event,included,4cc option 286000
+2026-11-03,rejuran-healer,우유빛의원,Sinnonhyeon,https://unni.app/events/79590,Rejuran Healer,2,cc,1,274900,event,included,bundled with 3D skin analysis + exfoliation + argon soothing care; listed regular 540000
+2026-11-03,rejuran-healer,나세르의원,Gangnam Station,https://unni.app/events/81128,Rejuran Healer,2,cc,1,220000,first-visit,included,listed regular 435000
+2026-11-03,rejuran-healer,온리프의원,Gangnam Station,https://unni.app/events/23228,Rejuran Healer,2,cc,1,319000,event,included,listed regular 600000
+2026-11-03,rejuran-healer,리앤클의원,Sinsa,https://unni.app/events/127178,Rejuran Healer,2,cc,1,199000,event,included,includes soothing pack; 4cc 398000
+2026-11-03,rejuran-healer,뽀송의원,Gangnam Station,https://unni.app/events/104895,Rejuran Healer,2,cc,1,163900,first-visit,included,labelled 1회체험가 (one-time trial)
+2026-11-03,rejuran-healer,모찌의원,Gangnam Station,https://unni.app/events/97961,Rejuran Healer,2,cc,1,286000,event,included,private room; event period ends 2026-11-30; listed regular 374000
+2026-11-03,rejuran-healer,청담더오피부과의원,Seolleung,https://unni.app/events/145191,Rejuran Healer,2,cc,1,275000,event,included,listed regular 450000
+2026-11-03,rejuran-healer,톤즈의원 건대점,Konkuk Univ,https://unni.app/events/144913,Rejuran Healer,2,cc,1,150000,first-visit,included,includes LED + soothing mask
+2026-11-03,rejuran-healer,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/145351,Rejuran Healer,2,cc,1,218900,event,included,listed regular 430000
+2026-11-03,rejuran-healer,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/145351,Rejuran Healer,2,cc,1,159500,first-visit,included,first visit only; once
+2026-11-03,rejuran-healer,포에버의원 홍대점,Hongdae,https://unni.app/events/166094,Rejuran Healer,2,cc,1,173800,event,included,listed regular 330000
+2026-11-03,rejuran-healer,리버스의원 홍대점,Hongdae,https://unni.app/events/160076,Rejuran Healer,2,cc,1,275000,event,included,listed regular 549000
+2026-11-03,rejuran-healer,피아프의원,Jamsil (Jamsilsaenae),https://unni.app/events/86400,Rejuran Healer,2,cc,1,220000,event,included,includes 6-min LDM soothing; 4cc 385000
+2026-11-03,rejuran-healer,논현365의원,Nonhyeon,https://unni.app/events/170379,Rejuran (variant not stated),2,cc,1,200000,event,included,option says only 리쥬란 2cc; listed regular 300000
+2026-11-03,rejuran-healer,리베리의원 강남점,Gangnam,https://reberryclinic.com/리쥬란/,Rejuran Healer,2,cc,1,240000,regular,excluded,price from; same page headline says 18만원~ for 6 branches - conflicting
+2026-11-03,juvelook,사적인아름다움지유의원,Sinnonhyeon,https://unni.app/events/84382,Juvelook Skin,2,cc,1,200000,event,included,platform listing with no regular price shown; Skin 1cc 110000
+2026-11-03,juvelook,올리팅성형외과의원,Gangnam Station,https://unni.app/events/83771,Juvelook Skin,1,cc,1,55000,event,included,listed regular 109000
+2026-11-03,juvelook,올리팅성형외과의원,Gangnam Station,https://unni.app/events/83771,Juvelook Skin,4,cc,1,198000,event,included,listed regular 395000
+2026-11-03,juvelook,픽셀랩성형외과의원,Gangnam Station,https://unni.app/events/72709,Juvelook Skin,1,cc,1,59000,event,included,listed regular 109000
+2026-11-03,juvelook,픽셀랩성형외과의원,Gangnam Station,https://unni.app/events/72709,Juvelook Skin,4,cc,1,230000,event,included,leftover volume can be banked
+2026-11-03,juvelook,리파인의원,Apgujeong,https://unni.app/events/158799,Juvelook Skin,2,cc,1,120000,event,included,listed regular 198000; Skin 1cc trial 40000 first visit only
+2026-11-03,juvelook,우아성형외과의원,Sinnonhyeon,https://unni.app/events/43039,Juvelook Skin,1,cc,1,44000,event,included,Skin 8cc vial 352000
+2026-11-03,juvelook,포에버의원 명동점,Myeongdong,https://unni.app/events/168321,Juvelook Skin,2,cc,1,77000,first-visit,included,one-time trial price
+2026-11-03,juvelook,포에버의원 명동점,Myeongdong,https://unni.app/events/168321,Juvelook Skin,1,cc,1,55000,event,included,non-trial price
+2026-11-03,juvelook,라라플랜의원,Jamsil (Jamsilsaenae),https://unni.app/events/113285,Juvelook Skin,1,cc,1,86900,event,included,listed regular 165000
+2026-11-03,juvelook,피아프의원,Jamsil (Jamsilsaenae),https://unni.app/events/86400,Juvelook Skin,1,cc,1,55000,event,included,includes LDM soothing
+2026-11-03,juvelook,디렉터피부과의원 강동점,Godeok (Gangdong),https://unni.app/events/174207,Juvelook Skin,4,cc,1,250000,event,included,page figures look swapped (490190 shown beside 250000); check
+2026-11-03,juvelook,디렉터피부과의원 강동점,Godeok (Gangdong),https://unni.app/events/174207,Juvelook Skin,4,cc,3,690000,package,included,3 sessions
+2026-11-03,juvelook,온리프의원,Gangnam Station,https://unni.app/events/23228,Juvelook (variant not stated),1,cc,1,108900,event,included,listed regular 200000
+2026-11-03,juvelook,바바성형외과의원,Gangnam Station,https://unni.app/events/157431,Juvelook (variant not stated),2,cc,1,110000,event,included,opening special; includes AI 3D analysis
+2026-11-03,juvelook,에비앙스의원,Sinsa,https://unni.app/events/159674,Juvelook Volume or Skin (patient choice),2,cc,1,132000,event,included,same price for either line
+2026-11-03,juvelook,벨뷰의원,Gangnam Station,https://unni.app/events/64717,Juvelook (variant not stated),3,cc,1,99000,first-visit,included,listed regular 180000
+2026-11-03,juvelook,리베리의원 (branch not given),Gangnam/Myeongdong group,https://reberryclinic.com/리쥬란/,Juvelook,2,cc,1,230000,regular,excluded,price from; comparison table on clinic site; 4cc 340000
+2026-11-03,ha-skin-booster,올리팅성형외과의원,Gangnam Station,https://unni.app/events/37008,물광주사 - Hyaron (HA),2.5,cc,1,65000,event,included,5cc 120000; listed regular 128000
+2026-11-03,ha-skin-booster,논현365의원,Nonhyeon,https://unni.app/events/170379,물광주사 - Hyaron (HA),1,cc,1,50000,event,included,listed regular 99000
+2026-11-03,ha-skin-booster,리필톡의원,Gangnam Station,https://unni.app/events/125108,물광주사 - brand 하이주,2,cc,1,66000,event,included,listed regular 109000
+2026-11-03,ha-skin-booster,하이엔드성형외과의원,Gangnam Station,https://unni.app/events/82827,물광주사 - Lilied M (릴리이드M),5,cc,1,143000,event,included,no regular price shown
+2026-11-03,ha-skin-booster,루비의원,Myeongdong,https://unni.app/events/63527,Lilied M (릴리이드M),1,cc,1,33000,event,included,5cc bottle 149000
+2026-11-03,ha-skin-booster,루비의원,Myeongdong,https://unni.app/events/88262,Skinvive,1,cc,1,187000,event,included,2cc 364000
+2026-11-03,ha-skin-booster,세이예스의원,Sinnonhyeon,https://unni.app/events/150306,물광주사 - Elravie Balance,1.5,cc,1,53900,event,included,listed regular 88000
+2026-11-03,ha-skin-booster,톡스앤필의원 강남본점,Gangnam Station,https://unni.app/events/165492,Skinvive,1,cc,1,152900,first-visit,included,one-time trial; cannot combine with other offers
+2026-11-03,ha-skin-booster,톡스앤필의원 신논현점,Sinnonhyeon,https://unni.app/events/104538,Skinvive,1,cc,1,180400,event,included,2cc 328900; listed regular 319000
+2026-11-03,ha-skin-booster,뷰티블라썸의원,Hongdae,https://unni.app/events/161836,Skinvive,1,cc,1,297000,event,included,2cc 594000
+2026-11-03,ha-skin-booster,리프톤피부과의원,Sinsa,https://unni.app/events/99095,Skinvive,1,cc,1,385000,event,included,listed regular 760000
+2026-11-03,ha-skin-booster,리프톤피부과의원,Sinsa,https://unni.app/events/110182,Restylane Vital Light,1,cc,1,385000,event,included,sold with sleep sedation (수면); listed regular 760000
+2026-11-03,ha-skin-booster,전앤후의원,Seolleung,https://unni.app/events/109224,Skinvive,0.5,cc,1,165000,event,included,listed regular 250000
+2026-11-03,ha-skin-booster,이지동안의원,Apgujeong,https://unni.app/events/88608,Skinvive,1,cc,1,330000,event,included,2cc 600000; 3cc 900000
+2026-11-03,ha-skin-booster,리파인의원,Apgujeong,https://unni.app/events/158799,Skinvive (amount not stated),1,session,1,330000,event,included,listed regular 495000
+2026-11-03,ha-skin-booster,압구정리앤스타의원,Apgujeong Rodeo,https://unni.app/events/144294,물광주사 (product and cc not stated),1,session,1,55000,first-visit,included,listed regular 99000
+2026-11-03,ha-skin-booster,루비성형외과의원,Sinsa,https://unni.app/events/43854,물광주사 (product not stated),2.5,cc,1,70000,event,included,listed regular 110000
+2026-11-03,ha-skin-booster,리베리의원 강남점,Gangnam,https://reberryclinic.com/물광주사/,Skinvive (Allergan),2,cc,1,660000,regular,excluded,price from
+2026-11-03,jaw-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,국산 경제형 (brand not named),50,units,1,29000,regular,excluded,from price; other pages on the same site show conflicting figures
+2026-11-03,jaw-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,국산 경제형 (brand not named),100,units,1,49000,regular,excluded,from price; FAQ only
+2026-11-03,jaw-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,국산 정제형 (brand not named),50,units,1,59000,regular,excluded,from price
+2026-11-03,jaw-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,수입 정제형 German (brand not named),50,units,1,129000,regular,excluded,from price; another table on the site says 11만원~
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,코어톡스 (소분),50,units,1,49000,event,excluded,Fast Track event; crossed-out 70000
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,코어톡스 (눈앞개봉),50,units,1,70000,event,excluded,vial opened in front of patient
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,국산 (brand not named; 눈앞개봉),50,units,1,35000,event,excluded,crossed-out 50000
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,국산 (brand not named; 소분),50,units,1,19000,event,excluded,split-vial (소분)
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,제오민 or 엘러간 (눈앞개봉),50,units,1,135000,event,excluded,crossed-out 265000
+2026-11-03,jaw-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/fastrackServiceInfo.php,제오민 or 엘러간 (소분),50,units,1,89000,event,excluded,crossed-out 135000
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,리즈톡스 (소분),50,units,1,20900,event,included,
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,보툴렉스 (소분),50,units,1,31900,event,included,
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,나보타,50,units,1,53900,event,included,
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,코어톡스,50,units,1,75900,event,included,
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,제오민,50,units,1,108900,event,included,German
+2026-11-03,jaw-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72493,엘러간,50,units,1,148500,event,included,US
+2026-11-03,jaw-botox,뷰티블라썸의원,Hongdae,https://unni.app/events/106214,국산 (brand not named),50,units,1,43500,event,included,crossed-out 85300
+2026-11-03,jaw-botox,뷰티블라썸의원,Hongdae,https://unni.app/events/106214,코어톡스,50,units,1,73700,event,included,crossed-out 144500
+2026-11-03,jaw-botox,포에버의원 강남점,Nonhyeon,https://unni.app/events/165927,국산 (brand not named),1,area,1,18700,event,included,units not stated; crossed-out 37000
+2026-11-03,jaw-botox,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/158674,하이톡스,50,units,1,20900,first-visit,included,first visit once; crossed-out 41000
+2026-11-03,jaw-botox,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/158674,보툴렉스 (눈앞개봉),50,units,1,38500,event,included,crossed-out 75000
+2026-11-03,jaw-botox,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/158674,코어톡스,50,units,1,77000,event,included,crossed-out 137000
+2026-11-03,jaw-botox,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/158674,제오민,50,units,1,148500,event,included,crossed-out 265000
+2026-11-03,jaw-botox,유라인의원,Apgujeong Rodeo,https://unni.app/events/9646,리즈톡스,65,units,1,110000,event,included,single listed price
+2026-11-03,jaw-botox,피아프의원,Jamsil,https://unni.app/events/52947,뉴럭스,50,units,1,44000,event,included,jaw or temporalis 1 area
+2026-11-03,jaw-botox,피아프의원,Jamsil,https://unni.app/events/52947,코어톡스,50,units,1,66000,event,included,crossed-out 79000
+2026-11-03,jaw-botox,피아프의원,Jamsil,https://unni.app/events/52947,제오민,50,units,1,124000,event,included,crossed-out 132000
+2026-11-03,jaw-botox,피아프의원,Jamsil,https://unni.app/events/52947,디스포트,125,units (Speywood),1,113000,event,included,Dysport units not comparable to other brands
+2026-11-03,jaw-botox,포에버의원 명동점,Myeongdong,https://unni.app/events/161433,국산 (brand not named),50,units,1,31900,first-visit,included,first visit once; crossed-out 63000
+2026-11-03,jaw-botox,포에버의원 명동점,Myeongdong,https://unni.app/events/161433,국산 (brand not named),50,units,1,53900,event,included,crossed-out 100000
+2026-11-03,jaw-botox,에르네의원,Gangnam Station,https://unni.app/events/114895,제오민,50,units,1,89000,event,included,crossed-out 175000
+2026-11-03,jaw-botox,리앤클의원,Sinsa,https://unni.app/events/127163,하이톡스,100,units,1,40000,event,included,crossed-out 79900
+2026-11-03,jaw-botox,청담에이스의원,Cheongdam,https://unni.app/events/142331,제오민,1,area,1,99000,event,included,units not stated; crossed-out 150000
+2026-11-03,wrinkle-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,국산 경제형 (brand not named),1,area,1,9900,regular,excluded,from price; brand table on same page says 1.9만원~
+2026-11-03,wrinkle-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,국산 정제형 (brand not named),1,area,1,39000,regular,excluded,from price
+2026-11-03,wrinkle-botox,리베리의원 강남점,Gangnam,https://reberryclinic.com/?p=2199,수입 정제형 German (brand not named),1,area,1,59000,regular,excluded,from price
+2026-11-03,wrinkle-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3628&i=22633,국산 (brand not named),1,area,1,30000,regular,excluded,one of glabella/eyes/nose/chin
+2026-11-03,wrinkle-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3628&i=22633,국산 (brand not named),1,area,1,50000,regular,excluded,full forehead or full crow's feet
+2026-11-03,wrinkle-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3628&i=22633,수입 German/US (brand not named),1,area,1,60000,regular,excluded,one area
+2026-11-03,wrinkle-botox,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3628&i=22633,수입 German/US (brand not named),1,area,1,100000,regular,excluded,full forehead or full crow's feet
+2026-11-03,wrinkle-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72520,리즈톡스,1,area,1,20900,event,included,1 area excluding forehead
+2026-11-03,wrinkle-botox,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72520,제오민,1,area,1,53900,event,included,1 area excluding forehead
+2026-11-03,wrinkle-botox,포에버의원 강남점,Nonhyeon,https://unni.app/events/165927,국산 (brand not named),1,area,1,27500,event,included,crossed-out 54000
+2026-11-03,wrinkle-botox,포에버의원 명동점,Myeongdong,https://unni.app/events/161433,국산 (brand not named),1,area,1,16500,event,included,crossed-out 32000
+2026-11-03,wrinkle-botox,에르네의원,Gangnam Station,https://unni.app/events/114895,제오민,30,units,1,79000,event,included,one area; crossed-out 155000
+2026-11-03,wrinkle-botox,벨뷰의원,Gangnam Station,https://unni.app/events/77019,제오민,1,area,1,31900,first-visit,included,crossed-out 63600
+2026-11-03,wrinkle-botox,벨뷰의원,Gangnam Station,https://unni.app/events/77019,제오민,1,area,1,64900,event,included,existing customers; crossed-out 105000
+2026-11-03,wrinkle-botox,리앤클의원,Sinsa,https://unni.app/events/127163,하이톡스,1,area,1,10000,event,included,forehead; crossed-out 19900
+2026-11-03,wrinkle-botox,브이에스라인의원 압구정점,Apgujeong,https://unni.app/events/45063,국산 (brand not named),1,area,1,22000,event,included,crossed-out 38500
+2026-11-03,wrinkle-botox,브이에스라인의원 압구정점,Apgujeong,https://unni.app/events/45063,제오민,1,area,1,66000,event,included,crossed-out 129000
+2026-11-03,wrinkle-botox,청담에이스의원,Cheongdam,https://unni.app/events/142331,제오민,1,area,1,79000,event,included,crossed-out 120000
+2026-11-03,wrinkle-botox,리버스의원 홍대점,Hongdae,https://unni.app/events/166629,brand not named,1,area,1,22000,event,included,forehead or glabella; crossed-out 43500
+2026-11-03,wrinkle-botox,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/153726,리즈톡스,20,units,1,5500,event,included,one area; crossed-out 10800
+2026-11-03,wrinkle-botox,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/153726,제오민,20,units,1,66000,event,included,one area; crossed-out 130000
+2026-11-03,filler,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3630&i=29623,국산 HA (brand not named),1,cc,1,290000,regular,excluded,from price
+2026-11-03,filler,톡스앤필의원 강남본점,Gangnam,https://www.toxnfill1.com/m/detail.php?c=3630&i=22720,쥬비덤,1,cc,1,450000,regular,excluded,from price
+2026-11-03,filler,우아성형외과의원,Sinnonhyeon,https://unni.app/events/11859,뉴라미스,1,cc,1,93500,event,included,crossed-out 180000
+2026-11-03,filler,코디성형외과의원,Gangnam Station,https://unni.app/events/23349,레스틸렌,1,cc,1,319000,event,included,
+2026-11-03,filler,코디성형외과의원,Gangnam Station,https://unni.app/events/19151,쥬비덤,1,cc,1,330000,event,included,
+2026-11-03,filler,메이필의원,Gangnam Station,https://unni.app/events/13763,아띠에르,1,cc,1,110000,event,included,forehead; crossed-out 200000
+2026-11-03,filler,메이필의원,Gangnam Station,https://unni.app/events/13763,채움,1,cc,1,165000,event,included,forehead; crossed-out 240000
+2026-11-03,filler,메이필의원,Gangnam Station,https://unni.app/events/13763,벨로테로,1,cc,1,275000,event,included,forehead; crossed-out 440000
+2026-11-03,filler,메이필의원,Gangnam Station,https://unni.app/events/13763,레스틸렌,1,cc,1,385000,event,included,forehead; crossed-out 550000
+2026-11-03,filler,메이필의원,Gangnam Station,https://unni.app/events/13763,쥬비덤,1,cc,1,440000,event,included,forehead; crossed-out 770000
+2026-11-03,filler,4월31일성형외과의원,Hakdong,https://unni.app/events/47997,뉴라미스,1,cc,1,77000,event,included,crossed-out 130000
+2026-11-03,filler,벨뷰의원,Gangnam Station,https://unni.app/events/44869,리쥬비엘,1,cc,1,163900,event,included,crossed-out 282000
+2026-11-03,filler,온유성형외과의원,Apgujeong,https://unni.app/events/63410,brand not named,1,cc,1,86900,event,included,nasolabial
+2026-11-03,filler,풀페이스의원,Hongdae,https://unni.app/events/15029,국산 (brand not named),1,cc,1,154000,event,included,forehead; crossed-out 300000
+2026-11-03,filler,루비의원,Myeongdong,https://unni.app/events/71944,뉴라미스,1,cc,1,59000,event,included,area not stated
+2026-11-03,filler,디아브의원,Myeongdong,https://unni.app/events/147255,뉴라미스,1,cc,1,99000,event,included,crossed-out 197000
+2026-11-03,filler,디아브의원,Myeongdong,https://unni.app/events/147255,쥬비덤,1,cc,1,389000,event,included,crossed-out 490000
+2026-11-03,filler,플래티넘의원,Sinsa,https://unni.app/events/140847,레스틸렌,1,cc,1,300000,event,included,crossed-out 500000
+2026-11-03,filler,플래티넘의원,Sinsa,https://unni.app/events/140847,벨로테로,1,cc,1,300000,event,included,crossed-out 500000
+2026-11-03,filler,플래티넘의원,Sinsa,https://unni.app/events/140847,쥬비덤,1,cc,1,400000,event,included,crossed-out 700000
+2026-11-03,filler,종로연세의원,Jongno,https://unni.app/events/85973,레스틸렌,1,cc,1,249900,first-visit,included,first visit; crossed-out 400000
+2026-11-03,filler,리본성형외과의원,Apgujeong,https://unni.app/events/89595,레스틸렌,1,cc,1,275000,event,included,any area
+2026-11-03,filler,세이예스의원,Sinnonhyeon,https://unni.app/events/102725,레스틸렌,1,cc,1,254100,event,included,crossed-out 317900
+2026-11-03,ultherapy,리베리의원 강남점,Gangnam,https://reberryclinic.com/%EC%9A%B8%EC%8E%84%EB%9D%BC-300%EC%83%B7-%EA%B0%80%EA%B2%A9-%EA%B0%95%EB%82%A8/,울쎄라피프라임,100,shots,1,430000,regular,excluded,from price; clinic own site
+2026-11-03,ultherapy,리베리의원 강남점,Gangnam,https://reberryclinic.com/%EC%9A%B8%EC%8E%84%EB%9D%BC-300%EC%83%B7-%EA%B0%80%EA%B2%A9-%EA%B0%95%EB%82%A8/,울쎄라피프라임,300,shots,1,1290000,regular,excluded,from price; same page also shows 99만원~ for 300 shots - conflicting
+2026-11-03,ultherapy,리베리의원 강남점,Gangnam,https://reberryclinic.com/%EC%9A%B8%EC%8E%84%EB%9D%BC-300%EC%83%B7-%EA%B0%80%EA%B2%A9-%EA%B0%95%EB%82%A8/,울쎄라피프라임,600,shots,1,2580000,regular,excluded,from price
+2026-11-03,ultherapy,테이아의원 강남본점,Gangnam Station,https://unni.app/events/115628,울쎄라피프라임 + 더마코드 분석,100,shots,1,330000,event,included,crossed-out 650000
+2026-11-03,ultherapy,테이아의원 강남본점,Gangnam Station,https://unni.app/events/115628,울쎄라피프라임 + 더마코드 분석,300,shots,1,990000,event,included,crossed-out 1900000
+2026-11-03,ultherapy,압구정튠의원,Apgujeong,https://unni.app/events/105997,울쎄라리프팅 (device generation not stated),300,shots,1,600000,event,included,full face; crossed-out 1150000
+2026-11-03,ultherapy,압구정튠의원,Apgujeong,https://unni.app/events/105997,울쎄라리프팅 (device generation not stated),600,shots,1,1100000,event,included,full face; crossed-out 2150000
+2026-11-03,ultherapy,지힐링스퀘어의원,Sinsa,https://unni.app/events/138616,수면 울쎄라피프라임,300,shots,1,759000,first-visit,included,sedation; first visit once
+2026-11-03,ultherapy,지힐링스퀘어의원,Sinsa,https://unni.app/events/138616,수면 울쎄라피프라임,600,shots,1,1518000,event,included,sedation; crossed-out 3000000
+2026-11-03,ultherapy,포에버의원 명동점,Myeongdong,https://unni.app/events/160026,울쎄라피프라임,100,shots,1,328900,first-visit,included,first visit once
+2026-11-03,ultherapy,포에버의원 명동점,Myeongdong,https://unni.app/events/160026,울쎄라피프라임,100,shots,1,418000,event,included,crossed-out 820000
+2026-11-03,ultherapy,포에버의원 명동점,Myeongdong,https://unni.app/events/160026,울쎄라피프라임,300,shots,1,1199000,event,included,crossed-out 1900000
+2026-11-03,ultherapy,더힐피부과의원 잠실점,Jamsil,https://unni.app/events/162945,울쎄라피프라임,100,shots,1,440000,event,included,crossed-out 495000
+2026-11-03,ultherapy,에이비성형외과의원,Gangnam Station,https://unni.app/events/38793,울쎄라피프라임,300,shots,1,979000,first-visit,included,crossed-out 1957000
+2026-11-03,ultherapy,에이비성형외과의원,Gangnam Station,https://unni.app/events/38793,울쎄라피프라임,600,shots,1,1870000,event,included,crossed-out 3739000
+2026-11-03,ultherapy,여름의원,Gangnam Station,https://unni.app/events/143578,울쎄라리프팅 (device generation not stated),300,shots,1,869000,event,included,trial price; full face
+2026-11-03,ultherapy,유픽의원 명동점,Myeongdong,https://unni.app/events/142885,울쎄라피프라임,100,shots,1,416900,event,included,crossed-out 817451
+2026-11-03,ultherapy,유픽의원 명동점,Myeongdong,https://unni.app/events/142885,울쎄라피프라임,300,shots,1,1089000,regular,unstated,single price
+2026-11-03,ultherapy,유픽의원 명동점,Myeongdong,https://unni.app/events/142885,울쎄라피프라임,600,shots,1,1980000,regular,unstated,single price
+2026-11-03,ultherapy,루비성형외과의원,Sinsa,https://unni.app/events/79340,울쎄라피프라임,100,shots,1,285000,event,included,crossed-out 425000
+2026-11-03,ultherapy,뷰웰의원,Gyodae,https://unni.app/events/159615,울쎄라피프라임,300,shots,1,748000,first-visit,included,crossed-out 1490000
+2026-11-03,ultherapy,뷰웰의원,Gyodae,https://unni.app/events/159615,울쎄라피프라임,100,shots,1,275000,first-visit,included,crossed-out 409000
+2026-11-03,shurink,포에버의원 홍대점,Hongdae,https://unni.app/events/166096,슈링크 유니버스,100,shots,1,75900,first-visit,included,once per person
+2026-11-03,shurink,포에버의원 홍대점,Hongdae,https://unni.app/events/166096,슈링크 유니버스,300,shots,1,174900,first-visit,included,once per person
+2026-11-03,shurink,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/163178,슈링크유니버스 울트라F,300,shots,1,86900,event,included,crossed-out 171000
+2026-11-03,shurink,파크뷰의원 잠실점,Jamsil,https://unni.app/events/38716,슈링크유니버스,300,shots,1,132000,event,included,crossed-out 260000
+2026-11-03,shurink,유앤아이의원 잠실점,Jamsil,https://unni.app/events/46793,슈링크 유니버스,100,shots,1,13200,first-visit,included,first visit only
+2026-11-03,shurink,유앤아이의원 잠실점,Jamsil,https://unni.app/events/46793,슈링크 유니버스,300,shots,1,97900,event,included,crossed-out 176000
+2026-11-03,shurink,아비쥬의원 홍대점,Hongdae,https://unni.app/events/172922,슈링크 유니버스,300,shots,1,86900,first-visit,included,first visit once
+2026-11-03,shurink,아비쥬의원 홍대점,Hongdae,https://unni.app/events/172922,슈링크 유니버스,300,shots,1,97900,regular,included,no discount shown
+2026-11-03,shurink,유픽의원 홍대점,Hongdae,https://unni.app/events/76733,슈링크 유니버스 울트라F,300,shots,1,121000,event,included,crossed-out 240000
+2026-11-03,shurink,도곡유스앤영의원,Dogok,https://unni.app/events/40602,슈링크 유니버스,100,shots,1,9350,first-visit,included,trial once; event ends 2026-12-06
+2026-11-03,shurink,도곡유스앤영의원,Dogok,https://unni.app/events/40602,슈링크 유니버스,300,shots,1,53900,first-visit,included,trial once; event ends 2026-12-06
+2026-11-03,shurink,연세리즈의원,Gyodae,https://unni.app/events/74198,슈링크유니버스 울트라F,100,shots,1,55000,event,included,crossed-out 79000
+2026-11-03,shurink,연세리즈의원,Gyodae,https://unni.app/events/74198,슈링크유니버스 울트라F,300,shots,1,165000,event,included,crossed-out 198000
+2026-11-03,shurink,뷰티블라썸의원,Hongdae,https://unni.app/events/105511,슈링크 유니버스 울트라F,300,shots,1,154000,event,included,crossed-out 302000
+2026-11-03,shurink,루비의원,Myeongdong,https://unni.app/events/31768,슈링크유니버스,100,shots,1,33000,event,included,
+2026-11-03,shurink,루비의원,Myeongdong,https://unni.app/events/31768,슈링크유니버스,300,shots,1,88000,event,included,
+2026-11-03,thermage-flx,리베리의원 강남점,Gangnam,https://reberryclinic.com/%EC%9A%B8%EC%8E%84%EB%9D%BC-300%EC%83%B7-%EA%B0%80%EA%B2%A9-%EA%B0%95%EB%82%A8/,써마지 FLX,600,shots,1,1990000,regular,excluded,from price
+2026-11-03,thermage-flx,사적인아름다움지유의원,Gangnam Station,https://unni.app/events/21975,써마지 리프팅 (FLX not stated),300,shots,1,1390000,event,included,crossed-out 2500000
+2026-11-03,thermage-flx,에이비성형외과의원,Gangnam Station,https://unni.app/events/70489,고출력 써마지리프팅 (FLX not stated),600,shots,1,1958000,first-visit,included,crossed-out 3915000
+2026-11-03,thermage-flx,우아성형외과의원,Sinnonhyeon,https://unni.app/events/14278,정품팁 4세대 써마지FLX,900,shots,1,3410000,event,included,
+2026-11-03,thermage-flx,어퍼11의원,Gangnam Station,https://unni.app/events/170246,써마지 FLX,300,shots,1,1199000,event,included,opening event; crossed-out 2360000
+2026-11-03,thermage-flx,어퍼11의원,Gangnam Station,https://unni.app/events/170246,써마지 FLX,600,shots,1,2200000,event,included,opening event; crossed-out 4350000
+2026-11-03,thermage-flx,하이즈의원,Apgujeong Rodeo,https://unni.app/events/112418,써마지FLX,600,shots,1,1199000,first-visit,included,trial once
+2026-11-03,thermage-flx,하이즈의원,Apgujeong Rodeo,https://unni.app/events/112418,써마지FLX,600,shots,1,2180000,event,included,revisit price
+2026-11-03,thermage-flx,압구정튠의원,Apgujeong,https://unni.app/events/111925,써마지리프팅 (FLX not stated),600,shots,1,1590000,first-visit,included,first-time patients only
+2026-11-03,thermage-flx,포에버의원 명동점,Myeongdong,https://unni.app/events/161755,써마지 FLX,600,shots,1,2079000,event,included,once per person; crossed-out 4157000
+2026-11-03,thermage-flx,유픽의원 명동점,Myeongdong,https://unni.app/events/142708,써마지FLX,600,shots,1,2409000,regular,unstated,single price
+2026-11-03,thermage-flx,뉴엘의원,Sinsa,https://unni.app/events/76469,써마지FLX,600,shots,1,2409000,regular,unstated,single price
+2026-11-03,thermage-flx,더끌림산부인과의원,Myeongdong,https://unni.app/events/89935,써마지 FLX,600,shots,1,1980000,event,included,crossed-out 2189000
+2026-11-03,potenza,디유성형외과의원,Gangnam Station,https://unni.app/events/127224,포텐자 N팁,1,full face,1,159000,event,included,tip included; crossed-out 315000
+2026-11-03,potenza,에이비성형외과의원,Gangnam Station,https://unni.app/events/50737,포텐자 N팁,1,full face,1,165000,event,included,tip included; crossed-out 300000
+2026-11-03,potenza,톡스앤필의원 신논현점,Sinnonhyeon,https://unni.app/events/104544,포텐자 N팁,1,full face,1,130900,event,included,tip included; crossed-out 250000
+2026-11-03,potenza,압구정튠의원,Apgujeong,https://unni.app/events/150611,포텐자 모공팁 (N팁),1,full face,1,122200,event,included,tip included; crossed-out 190000
+2026-11-03,potenza,플래티넘의원,Sinsa,https://unni.app/events/153166,포텐자 모공팁 (N팁),1,full face,1,159000,event,included,tip included; crossed-out 300000
+2026-11-03,potenza,톡스앤필의원 홍대점,Hongdae,https://unni.app/events/169201,포텐자 (체험가),1,full face,1,86900,event,included,trial price; crossed-out 170000
+2026-11-03,potenza,홍대셀레나의원,Hongdae,https://unni.app/events/98651,포텐자 멀티팁,1,full face,1,141900,event,included,tip included; crossed-out 280000
+2026-11-03,potenza,뷰티블라썸의원,Hongdae,https://unni.app/events/105512,포텐자 DDR팁,1,full face,1,176000,event,included,tip included; crossed-out 345100
+2026-11-03,potenza,신상성형외과의원,Sinsa,https://unni.app/events/158529,포텐자 모공팁 (N팁),1,full face,1,165000,event,included,tip included; crossed-out 290000
+2026-11-03,potenza,예쁨주의쁨의원 강남본점,Gangnam Station,https://unni.app/events/156711,포텐자,1,area unstated,1,64900,event,included,tip and area not stated
+2026-11-03,potenza,포에버의원 홍대점,Hongdae,https://unni.app/events/166040,포텐자 모공 (팁포함),1,full face,1,141900,first-visit,included,first visit once
+2026-11-03,pico-toning,예쁨주의쁨의원 강남본점,Gangnam Station,https://unni.app/events/29676,피코토닝 (device not stated),1,full face,1,10890,event,included,trial price
+2026-11-03,pico-toning,셀린의원 강남점,Gangnam Station,https://unni.app/events/109742,피코토닝 (피코플러스),1,full face,1,42900,event,included,crossed-out 80000
+2026-11-03,pico-toning,뽀송의원,Gangnam Station,https://unni.app/events/104690,피코슈어 토닝 + 팩,1,full face,1,38500,first-visit,included,first visit only
+2026-11-03,pico-toning,기린성형외과의원,Sinnonhyeon,https://unni.app/events/100383,피코토닝 (device not stated),1,full face,1,88000,event,included,crossed-out 175000
+2026-11-03,pico-toning,톤즈의원 강남역점,Gangnam Station,https://unni.app/events/144780,피코토닝 bundle (device not stated),1,full face,1,60000,event,included,bundle with LED and pack
+2026-11-03,pico-toning,유픽의원 명동점,Myeongdong,https://unni.app/events/142709,피코슈어토닝,1,full face,1,53900,regular,included,single price
+2026-11-03,pico-toning,톡스앤필의원 명동점,Myeongdong,https://unni.app/events/72647,피코플러스 피코토닝,1,full face,1,64900,event,included,
+2026-11-03,pico-toning,올의원,Myeongdong,https://unni.app/events/110283,피코토닝 (피코하이) + 물빛케어,1,full face,1,77000,event,included,crossed-out 100000
+2026-11-03,pico-toning,포레나의원,Hongdae,https://unni.app/events/127154,피코슈어 토닝,1,full face,1,88000,event,included,crossed-out 165000
+2026-11-03,pico-toning,오블리주의원,Hongdae,https://unni.app/events/145555,피코슈어토닝,1,full face,1,49000,regular,included,single price
+2026-11-03,pico-toning,명동더그랜드롯데호텔디에이의원,Myeongdong,https://unni.app/events/173129,피코플러스토닝,1,full face,1,19000,event,included,crossed-out 37000
+2026-11-03,shurink,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,슈링크 유니버스 (genuine tip),100,shots,1,28000,regular,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,shurink,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,슈링크 유니버스 (genuine tip),100,shots,1,7900,first-visit,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,laser-toning,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,레이저 토닝,1,full face,1,15000,regular,unstated,korean-medicine clinic; list dated 2026-08-27; area not stated
+2026-11-03,potenza,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,포텐자 & 모델링팩,1,session,1,149000,regular,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,potenza,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,포텐자 & 모델링팩,1,session,1,70000,first-visit,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,juvelook,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,쥬베룩 스킨,1,cc,1,53000,regular,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,juvelook,젠한의원,Yongsan,https://d3jilwg9mopaui.cloudfront.net/treatments/,쥬베룩 스킨,1,cc,1,43000,first-visit,unstated,korean-medicine clinic; list dated 2026-08-27
+2026-11-03,ultherapy,워나성형외과의원,Gangnam Station,https://unni.app/events/152117,울쎄라피프라임 (수면) + 퍼스널리프팅프로그램 + 수분진정케어,300,shots,1,759000,event,included,crossed-out 1430000; sedation
+2026-11-03,ultherapy,닥터미성형외과의원,Gangnam Station,https://unni.app/events/163343,울쎄라피 프라임 (수면포함),300,shots,1,690000,event,included,sedation included
+2026-11-03,ultherapy,세이예스의원,Sinnonhyeon,https://unni.app/events/89587,울쎄라피프라임,300,shots,1,711700,event,included,crossed-out 1400000
+2026-11-03,ultherapy,더나의원,Gangnam Station,https://unni.app/events/143791,울쎄라피 프라임,300,shots,1,955000,event,included,crossed-out 1872000; same-day use only
+2026-11-03,ultherapy,에이탑성형외과의원,Gangnam Station,https://unni.app/events/97466,울쎄라피프라임,300,shots,1,935000,event,included,crossed-out 1045000; non-sedation option
+2026-11-03,ultherapy,에이탑성형외과의원,Gangnam Station,https://unni.app/events/97466,울쎄라피프라임 (수면),300,shots,1,990000,event,included,crossed-out 1970000; sedation option
+2026-11-03,ultherapy,기린성형외과의원,Sinnonhyeon,https://unni.app/events/48038,울쎄라피 프라임,300,shots,1,1320000,event,included,crossed-out 2598000
+2026-11-03,ultherapy,기린성형외과의원,Sinnonhyeon,https://unni.app/events/48038,수면 울쎄라피 프라임 + 스킨보톡스 1회,300,shots,1,990000,first-visit,included,bundled with skin botox; once only
+2026-11-03,ultherapy,오앤의원,Gangnam Station,https://unni.app/events/72964,AI분석진단 + 울쎄라피프라임,300,shots,1,1320000,event,included,crossed-out 2600000
+2026-11-03,thermage-flx,닥터미성형외과의원,Gangnam Station,https://unni.app/events/144235,수면 써마지 FLX,600,shots,1,1490000,event,included,introductory trial price per title; sedation
+2026-11-03,thermage-flx,리앤웰성형외과의원,Yeoksam,https://unni.app/events/150584,써마지FLX,600,shots,1,1889900,event,included,crossed-out 3750000
+2026-11-03,thermage-flx,저스트성형외과의원,Gangnam Station,https://unni.app/events/56920,써마지 FLX,600,shots,1,2200000,event,included,
+2026-11-03,thermage-flx,벨뷰의원,Gangnam Station,https://unni.app/events/79397,써마지 (FLX per event title),600,shots,1,2200000,event,included,crossed-out 3730000
+2026-11-03,thermage-flx,리스펙성형외과의원,Gangnam Station,https://unni.app/events/140209,리스펙 써마지 (FLX per event title),600,shots,1,2200000,event,included,crossed-out 4250000
+2026-11-03,shurink,브라운성형외과의원,Sinnonhyeon,https://unni.app/events/115826,슈링크 유니버스,300,shots,1,88000,event,included,crossed-out 175000
+2026-11-03,shurink,저스트성형외과의원,Gangnam Station,https://unni.app/events/50208,슈링크 유니버스 리프팅,300,shots,1,99000,event,included,
+2026-11-03,shurink,고트의원,Yeoksam,https://unni.app/events/151041,슈링크 유니버스,300,shots,1,97900,event,included,
+2026-11-03,shurink,셀린의원 강남점,Gangnam Station,https://unni.app/events/110560,슈링크 유니버스 (울트라F),300,shots,1,99000,event,included,crossed-out 190000
+2026-11-03,shurink,본연성형외과의원,Gangnam Station,https://unni.app/events/71217,슈링크유니버스 (울트라F + 울트라부스터),300,shots,1,90000,first-visit,included,first-visit only
+2026-11-03,potenza,픽셀랩성형외과의원,Gangnam Station,https://unni.app/events/113931,포텐자 펌핑팁 or N팁 (700 shots),1,full face,1,169000,event,included,crossed-out 310000; tip included
+2026-11-03,potenza,에이탑성형외과의원,Gangnam Station,https://unni.app/events/55620,포텐자 (N팁) + 크라이오쉘 + 모델링팩,1,full face,1,209000,regular,unstated,tip included; bundled care
+2026-11-03,potenza,에이탑성형외과의원,Gangnam Station,https://unni.app/events/55620,포텐자 (N팁) + 크라이오쉘 + 모델링팩,1,full face,1,187000,first-visit,included,tip included; bundled care
+2026-11-03,potenza,고와의원,Sinnonhyeon,https://unni.app/events/150138,포텐자 얼굴전체 + 크라이오관리 (700 shots),1,full face,1,159000,first-visit,included,first-visit only
+2026-11-03,jaw-botox,미케이의원,Gangnam Station,https://unni.app/events/14704,리즈톡스 (국산),50,units,1,44000,event,included,
+2026-11-03,jaw-botox,제이필의원 강남점,Gangnam Station,https://unni.app/events/45484,코어톡스 (국산),50,units,1,88000,event,included,crossed-out 174000
+2026-11-03,jaw-botox,제이필의원 강남점,Gangnam Station,https://unni.app/events/45484,국산 (brand not named),50,units,1,50600,event,included,
+2026-11-03,jaw-botox,팅의원,Gangnam Station,https://unni.app/events/172465,뉴럭스,50,units,1,23900,event,included,crossed-out 36000
+2026-11-03,jaw-botox,팅의원,Gangnam Station,https://unni.app/events/172465,코어톡스,50,units,1,46900,event,included,crossed-out 75000
+2026-11-03,jaw-botox,브이에스라인의원 압구정점,Apgujeong,https://unni.app/events/85676,국산 (brand not named),50,units,1,44000,event,included,crossed-out 86000
+2026-11-03,jaw-botox,브이에스라인의원 압구정점,Apgujeong,https://unni.app/events/85676,코어톡스 (국산),50,units,1,66000,event,included,crossed-out 129000
+2026-11-03,jaw-botox,브이에스라인의원 압구정점,Apgujeong,https://unni.app/events/85676,제오민 (수입),50,units,1,132000,event,included,crossed-out 258000
+2026-11-03,jaw-botox,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/29211,리즈톡스 (국산),50,units,1,18600,event,included,crossed-out 37000
+2026-11-03,jaw-botox,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/29211,보툴렉스 (국산),50,units,1,28600,event,included,crossed-out 56100
+2026-11-03,jaw-botox,브이에스라인의원 잠실점,Jamsil,https://unni.app/events/29211,제오민 (수입),50,units,1,88000,event,included,crossed-out 173000
+2026-11-03,jaw-botox,신사세레아의원,Sinsa,https://unni.app/events/158455,국산 (brand not named),50,units,1,24200,event,included,crossed-out 48000
+2026-11-03,jaw-botox,신사세레아의원,Sinsa,https://unni.app/events/158455,나보타,50,units,1,53900,event,included,crossed-out 100000
+2026-11-03,jaw-botox,신사세레아의원,Sinsa,https://unni.app/events/158455,제오민,50,units,1,86900,event,included,crossed-out 160000
+2026-11-03,jaw-botox,페슈의원,Gangnam Station,https://unni.app/events/138160,제오민 (수입),50,units,1,119900,event,included,crossed-out 235400
+2026-11-03,jaw-botox,솔린의원,Gangnam-gu Office,https://unni.app/events/152057,제오민,50,units,1,130900,event,included,crossed-out 220000; anesthesia and aftercare not included
+2026-11-03,filler,본연성형외과의원,Gangnam Station,https://unni.app/events/71211,레스틸렌 (수입),1,cc,1,245000,first-visit,included,labelled 1회 체험가
+2026-11-03,filler,노엘의원,Gangnam Station,https://unni.app/events/169770,아띠에르 (국산),1,cc,1,66000,event,included,forehead; crossed-out 130000
+2026-11-03,filler,노엘의원,Gangnam Station,https://unni.app/events/169770,뉴라미스 (국산),1,cc,1,132000,event,included,forehead; crossed-out 263000
+2026-11-03,filler,노엘의원,Gangnam Station,https://unni.app/events/169770,레스틸렌,1,cc,1,220000,event,included,forehead; crossed-out 439000
+2026-11-03,filler,청담엔샤인의원,Apgujeong Rodeo,https://unni.app/events/131549,채움 (국산),1,cc,1,165000,event,included,forehead; crossed-out 220000
+2026-11-03,filler,청담엔샤인의원,Apgujeong Rodeo,https://unni.app/events/131549,레스틸렌 (수입),1,cc,1,396000,event,included,forehead; crossed-out 440000
+2026-11-03,filler,프로젝트 유 의원,Hongdae,https://unni.app/events/82936,뉴라미스 (국산),1,cc,1,169000,event,included,crossed-out 330000
+2026-11-03,filler,드림페이스의원,Hongdae,https://unni.app/events/113370,이브아르 (국산),1,cc,1,132000,event,included,nose; crossed-out 209000
+2026-11-03,filler,드림페이스의원,Hongdae,https://unni.app/events/113370,쥬비덤 (수입),1,cc,1,319000,event,included,nasolabial; crossed-out 490000
+2026-11-03,filler,드림페이스의원,Hongdae,https://unni.app/events/113370,벨로테로 (수입),1,cc,1,275000,event,included,under-eye; crossed-out 420000
+2026-11-03,filler,에스리본의원,Hongdae,https://unni.app/events/157374,리쥬비엘 (국산),1,cc,1,99000,event,included,
+2026-11-03,filler,유어타임성형외과의원,Sinnonhyeon,https://unni.app/events/106940,레스틸렌키스 (수입),1,cc,1,275000,event,included,lip filler; crossed-out 510000
+2026-11-03,juvelook,프로젝트 유 의원,Hongdae,https://unni.app/events/82936,쥬베룩 볼륨,1,cc,1,99000,event,included,crossed-out 132000
+2026-11-03,juvelook,케이트의원,Hongdae,https://unni.app/events/139120,쥬베룩 스킨,1,cc,1,88000,event,included,crossed-out 175000; Volume same price
+2026-11-03,juvelook,팅의원,Gangnam Station,https://unni.app/events/172283,쥬베룩 스킨,1,cc,1,44900,event,included,crossed-out 74000
+2026-11-03,juvelook,팅의원,Gangnam Station,https://unni.app/events/172283,쥬베룩 볼륨,1,cc,1,49000,event,included,crossed-out 79000
+2026-11-03,juvelook,테이아의원 강남본점,Gangnam Station,https://unni.app/events/160233,쥬베룩 스킨,1,cc,1,55000,event,included,bundled with skin analysis; crossed-out 109000
+2026-11-03,juvelook,에이탑성형외과의원,Gangnam Station,https://unni.app/events/80953,쥬베룩 볼륨,1,cc,1,143000,regular,included,stated regular price
+2026-11-03,juvelook,에이탑성형외과의원,Gangnam Station,https://unni.app/events/80953,쥬베룩 볼륨,1,cc,1,84000,first-visit,included,first visit once
+2026-11-03,pico-toning,르샤인의원,Gangnam Station,https://unni.app/events/64290,피코슈어 토닝,1,full face,1,99000,event,included,crossed-out 195000; area not stated
+2026-11-03,pico-toning,프리디크의원,Myeongdong,https://unni.app/events/91173,피코토닝 (device not stated),1,full face,1,49500,regular,included,single price
+2026-11-03,pico-toning,더프라이드성형외과의원,Apgujeong,https://unni.app/events/115890,피코슈어 토닝,1,full face,1,64900,event,included,crossed-out 129700
+2026-11-03,pico-toning,4월31일성형외과의원,Hakdong,https://unni.app/events/122887,피코토닝 (device not stated),1,full face,1,55000,event,included,crossed-out 109000
+2026-11-03,pico-toning,알다의원,Myeongdong,https://unni.app/events/173193,피코토닝 + 모델링팩 (device not stated),1,full face,1,64900,event,included,crossed-out 108900
+2026-11-03,pico-toning,에스리본의원,Hongdae,https://unni.app/events/157241,피코플러스 토닝,1,full face,1,45000,regular,included,includes regeneration laser and modeling pack
+2026-11-03,pico-toning,청담란셀의원,Seolleung,https://unni.app/events/99433,피코슈어 토닝,1,full face,1,66000,event,included,crossed-out 99000
+2026-11-03,pico-toning,너와의원,Gangnam Station,https://unni.app/events/168817,피코슈어PRO 토닝,1,full face,1,55000,first-visit,included,first visit
+2026-11-03,pico-toning,포에버의원 명동점,Myeongdong,https://unni.app/events/170496,피코토닝 (device not stated),1,full face,1,49000,first-visit,included,first visit once
+2026-11-03,pico-toning,디에스타의원 강동천호점,Cheonho,https://unni.app/events/112891,피코토닝 + 시트팩 (device not stated),1,full face,1,31900,first-visit,included,first visit
+2026-11-03,pico-toning,디렉터피부과의원 강동점,Godeok,https://unni.app/events/172441,피코토닝 (device not stated),1,full face,1,89000,first-visit,included,trial label
+2026-11-03,pico-toning,우리성형외과의원,Seolleung,https://unni.app/events/125533,피코토닝 (device not stated),1,full face,1,54000,first-visit,included,trial label
+2026-11-03,ha-skin-booster,유캔비성형외과의원,Gangnam Station,https://unni.app/events/99451,Skinvive,1,cc,1,319000,event,included,crossed-out 490000
+2026-11-03,ha-skin-booster,세이예스의원,Sinnonhyeon,https://unni.app/events/122250,Skinvive,1,cc,1,209000,event,included,crossed-out 330000
+2026-11-03,ha-skin-booster,땡큐성형외과의원,Gangnam Station,https://unni.app/events/108774,Skinvive,1,cc,1,297000,event,included,crossed-out 500000
+2026-11-03,ha-skin-booster,제로피부과의원,Gangnam Station,https://unni.app/events/159595,Skinvive,1,cc,1,273900,event,included,crossed-out 420000; aftercare included
+2026-11-03,ha-skin-booster,원진성형외과의원,Gangnam Station,https://unni.app/events/159313,Skinvive,1,cc,1,400000,regular,included,single price
+2026-11-03,ha-skin-booster,에이탑성형외과의원,Gangnam Station,https://unni.app/events/81776,Skinvive,1,cc,1,209000,first-visit,included,first visit
+2026-11-03,laser-toning,미케이의원,Gangnam Station,https://unni.app/events/8407,레이저토닝 (device not stated),1,full face,1,66000,regular,included,single price
+2026-11-03,laser-toning,포에버의원 강남점,Apgujeong,https://unni.app/events/166687,레이저토닝 + 비타민관리 + 모델링팩 (device not stated),1,full face,1,55000,event,included,crossed-out 109000
+2026-11-03,laser-toning,엔젤미의원,Apgujeong,https://unni.app/events/7749,레이저토닝 or IPL (device not stated),1,full face,1,53900,event,included,crossed-out 105900
+2026-11-03,laser-toning,BLS의원 명동점,Myeongdong,https://unni.app/events/154089,레이저토닝 (device not stated),1,full face,1,31900,event,included,crossed-out 63000
+2026-11-03,laser-toning,오블리주의원,Hongdae,https://unni.app/events/16128,헬리오스 토닝,1,full face,1,29000,event,included,includes calming mask; crossed-out 40000
+2026-11-03,laser-toning,루비의원,Myeongdong,https://unni.app/events/22383,레블라이트SI 토닝,1,full face,1,50000,regular,included,single price; area not stated
+2026-11-03,laser-toning,벨뷰의원,Gangnam Station,https://unni.app/events/24475,레블라이트 토닝,1,full face,1,42900,event,included,face; crossed-out 85500
+2026-11-03,laser-toning,루비성형외과의원,Sinsa,https://unni.app/events/89469,루카스 토닝,1,full face,1,33000,event,included,includes cream and sunscreen; crossed-out 63000
+2026-11-03,laser-toning,압구정 에테르나 의원,Apgujeong,https://unni.app/events/148046,광채 토닝 (레이저토닝 1회),1,full face,1,77000,event,included,crossed-out 88000
+2026-11-03,laser-toning,제이준성형외과의원,Yeoksam,https://unni.app/events/129642,헬리오스 미백토닝 + 진정팩,1,full face,1,80000,event,included,crossed-out 100000
